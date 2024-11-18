@@ -1,0 +1,15 @@
+Employee Name,Date of Birth,Gender,Qualification,Address,Experience,Phone no,Email,Joining date,Mode of Work,Cab Allowance,Food Allowances,Wifi Allowances,Cab Allowance Amount,Food Allowance Amount,Wifi Allowance Amount,Login Time,Logout Time,LinkedIn Profile
+Jackie Chan,01/01/1993,Male,B.Tech,,9,7995434750,jackie@abc.com,05/12/2012,On Site,TRUE,TRUE,FALSE,"1,000.00","1,000.00",,09:00:00,17:00:00,https://www.linkedin.com/in/jackie
+James,27/02/1998,Male,B.Tech,,6,7995434751,james@abc.com,12/05/2017,Remote,FALSE,FALSE,TRUE,,,500,,,https://www.linkedin.com/in/james
+Benjamin,16/03/1999,Male,B.Com,,5,7995434752,benjamin@abc.com,14/09/2018,Remote,FALSE,FALSE,TRUE,,,500,,,https://www.linkedin.com/in/benjamin
+Alexander,14/07/2001,Male,B.Tech,,2,7995434753,alex@abc.com,15/05/2021,On Site,TRUE,TRUE,FALSE,"1,000.00","1,000.00",,09:00:00,17:00:00,https://www.linkedin.com/in/alex
+William,05/11/2002,Male,B.Tech,,2,7995434754,william@abc.com,20/05/2021,On Site,TRUE,TRUE,FALSE,"1,000.00","1,000.00",,09:00:00,17:00:00,https://www.linkedin.com/in/william
+Ethan,11/11/1995,Male,B.Com,,2,7995434755,ethan@abc.com,27/02/2021,On Site,TRUE,TRUE,FALSE,"1,000.00","1,000.00",,09:00:00,17:00:00,https://www.linkedin.com/in/ethan
+Emma,29/11/1998,Female,B.Tech,,3,7995434756,emma@abc.com,13/11/2020,Remote,FALSE,FALSE,TRUE,,,500,,,https://www.linkedin.com/in/emma
+Olivia,03/08/2002,Female,B.Tech,,3,7995434757,olivia@abc.com,19/08/2020,Remote,FALSE,FALSE,TRUE,,,500,,,https://www.linkedin.com/in/olivia
+Sophia,27/03/2000,Female,B.Tech,,2,7995434758,sophia@abc.com,19/03/2021,Remote,FALSE,FALSE,TRUE,,,500,,,https://www.linkedin.com/in/sophia
+Isabella,17/06/1996,Female,B.Com,,7,7995434759,isabella@abc.com,01/01/2016,On Site,TRUE,TRUE,FALSE,"1,000.00","1,000.00",,09:00:00,17:00:00,https://www.linkedin.com/in/isabella
+Amelia,19/09/1999,Female,B.Tech,,2,7995434760,amelia@abc.com,19/09/2021,On Site,TRUE,TRUE,FALSE,"1,000.00","1,000.00",,09:00:00,17:00:00,https://www.linkedin.com/in/amelia
+Elizabeth,24/05/1999,Female,B.Tech,,2,7995434761,elizabeth@abc.com,27/02/2021,Remote,FALSE,FALSE,TRUE,,,500,,,https://www.linkedin.com/in/elizabeth
+Scarlett,07/03/1998,Female,B.Com,,3,7995434762,scarlett@abc.com,15/03/2020,Remote,FALSE,FALSE,TRUE,,,500,,,https://www.linkedin.com/in/scarlett
+Chloe,07/09/2000,Female,B.Tech,,1,7995434763,chloe@abc.com,22/09/2022,On Site,TRUE,TRUE,FALSE,"1,000.00","1,000.00",,09:00:00,17:00:00,https://www.linkedin.com/in/chole

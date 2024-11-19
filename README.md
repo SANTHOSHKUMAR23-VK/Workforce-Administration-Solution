@@ -110,6 +110,7 @@ Refer to our [Contribution Guidelines](CONTRIBUTING.md) for more details.
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+[CLICK HERE](https://drive.google.com/file/d/1UNkcemedwX3ALZnRWVjX4IkJxrTaT94b/view?usp=drivesdk)
 
 ---
 
